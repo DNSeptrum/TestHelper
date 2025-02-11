@@ -1,0 +1,48 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker">
+    <option name="projectSettingsTrackerStates">
+      <map>
+        <entry>
+          <key>
+            <Id>
+              <option name="externalProjectPath" value="$PROJECT_DIR$" />
+              <option name="systemId" value="GRADLE" />
+            </Id>
+          </key>
+          <value>
+            <Project>
+              <option name="settingsTracker">
+                <State>
+                  <option name="dirty" value="false" />
+                  <option name="settingsFiles">
+                    <map>
+                      <entry key="$PROJECT_DIR$/build.gradle.kts" value="2934684541" />
+                      <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="88595259" />
+                      <entry key="$PROJECT_DIR$/settings.gradle.kts" value="690707172" />
+                    </map>
+                  </option>
+                </State>
+              </option>
+            </Project>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="PermissionStore">
+    <excludedFiles>
+      <Path>$PROJECT_DIR$/.idea</Path>
+    </excludedFiles>
+    <fileAccess>Readonly</fileAccess>
+    <terminalAccess>Readonly</terminalAccess>
+    <runAccess>Readonly</runAccess>
+    <toolWindowAccess>Disabled</toolWindowAccess>
+  </component>
+</project>

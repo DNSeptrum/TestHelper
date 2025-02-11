@@ -1,0 +1,54 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-231.9392.1",
+    "experimental.ui.first.promotion.localdate": "2024-08-12",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.21565.193",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "gotit.previous.run": "IC-243.21565.193",
+    "ide.memory.adjusted": "true",
+    "installed.kotlin.plugin.version": "243.21565.193-IJ",
+    "last.imported.location": "C:/Users/septr/IdeaProjects/testowy3/pom.xml",
+    "last_opened_file_path": "C:/Users/septr/IdeaProjects/testowy3/pom.xml",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "plugins.preselection.path": "C:/Users/septr/IdeaProjects/testHelper/build/distributions",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "IC-243.21565.193",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "C:/Users/septr/IdeaProjects/testHelper/build/distributions/testHelper-1.0-SNAPSHOT.zip",
+      "C:/Users/septr/IdeaProjects/testowy3/pom.xml",
+      "C:/Users/septr/IdeaProjects/untitledfewr"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;SpeedSearch&quot;: 1723492245093
+  }
+}</component>
+</application>

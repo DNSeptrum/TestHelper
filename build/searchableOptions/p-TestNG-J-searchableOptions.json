@@ -1,0 +1,2 @@
+{"id":"preferences.keymap","name":"Keymap","entries":[{"hit":"Add to Temp Suite","path":"ActionManager"},{"hit":"Exclude from Suite","path":"ActionManager"}]}
+{"id":"fileTemplates","name":"File and Code Templates","entries":[{"hit":"TestNG AfterClass Method"},{"hit":"TestNG BeforeClass Method"},{"hit":"TestNG Parameters Method"},{"hit":"TestNG SetUp Method"},{"hit":"TestNG TearDown Method"},{"hit":"TestNG Test Class"},{"hit":"TestNG Test Method"}]}

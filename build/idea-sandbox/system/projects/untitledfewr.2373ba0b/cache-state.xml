@@ -1,0 +1,54 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker"><![CDATA[{
+  "projectData": {
+    "GRADLE": {
+      "C:/Users/septr/IdeaProjects/untitledfewr": {
+        "settingsTracker": {
+          "isDirty": false,
+          "settingsFiles": {
+            "C:/Users/septr/IdeaProjects/untitledfewr/gradle/wrapper/gradle-wrapper.properties": 88595259
+          }
+        }
+      }
+    }
+  }
+}]]></component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\septr\.gradle\wrapper\dists\gradle-8.4-bin\1w5dpkrfk8irigvoxmyhowfim\gradle-8.4" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="8.4" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="untitledfewr" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="untitledfewr" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="RestoreUpdateTree"><![CDATA[{}]]></component>
+</project>

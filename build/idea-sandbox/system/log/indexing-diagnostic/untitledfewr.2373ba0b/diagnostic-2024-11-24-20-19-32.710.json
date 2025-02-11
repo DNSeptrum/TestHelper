@@ -1,0 +1,65 @@
+{
+  "appInfo" : {
+    "build" : "243.21565.193",
+    "buildDate" : "2024-11-13T01:46:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-11-24T19:19:32.7103931Z",
+    "os" : "Windows 10.0",
+    "runtime" : "JetBrains s.r.o. 21.0.5 21.0.5+8-b631.16"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "untitledfewr",
+    "times" : {
+      "scanningReason" : "Merged changes in: \"JDK 17 C:/Users/septr/.jdks/corretto-17.0.13\" with changes in: \"JDK 17 C:/Users/septr/.jdks/corretto-17.0.13\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 3,
+      "creatingIteratorsTime" : 0,
+      "concurrentHandlingWallTimeWithoutPauses" : 0,
+      "concurrentHandlingWallTimeWithPauses" : 0,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 3097708800,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 1016538400,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 2080985800,
+      "delayedPushPropertiesStageTime" : 0,
+      "indexExtensionsTime" : 180626200,
+      "dumbModeStart" : "2024-11-24T19:19:30.8682209Z",
+      "dumbWallTimeWithPauses" : 1840440700,
+      "dumbWallTimeWithoutPauses" : 1840440700,
+      "updatingStart" : "2024-11-24T19:19:29.6065054Z",
+      "updatingEnd" : "2024-11-24T19:19:32.7086616Z",
+      "totalWallTimeWithPauses" : 3102156200,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 3102156200
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 84349,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 41845
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "JDK 17 C:/Users/septr/.jdks/corretto-17.0.13",
+      "numberOfScannedFiles" : 84349,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 41845,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1725596500,
+      "totalOneThreadTimeWithPauses" : 3097708800,
+      "iterationAndScannersApplicationTime" : 1016538400,
+      "filesCheckTime" : 2080985800,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 268633600,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 180626200,
+      "roots" : [ ]
+    } ]
+  }
+}

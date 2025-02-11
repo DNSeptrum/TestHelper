@@ -1,0 +1,2 @@
+{"id":"preferences.keymap","name":"Keymap","entries":[{"hit":"Dump UAST Tree","path":"ActionManager"},{"hit":"Dump UAST Tree By Each PsiElement","path":"ActionManager"},{"hit":"UAST","path":"ActionManager"}]}
+{"id":"reference.settingsdialog.IDE.editor.colors.JVM Logging","name":"JVM Logging","entries":[{"hit":"JVM Logging"},{"hit":"Classes//Class name"},{"hit":"Log string//Placeholder"}]}

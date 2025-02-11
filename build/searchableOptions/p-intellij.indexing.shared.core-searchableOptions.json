@@ -1,0 +1,2 @@
+{"id":"preferences.keymap","name":"Keymap","entries":[{"hit":"Download Shared Indexes","path":"ActionManager"},{"hit":"Notify Shared Index Consent","path":"ActionManager"},{"hit":"Notify Shared Index Downloaded","path":"ActionManager"},{"hit":"Restarts pre-built shared indexes download for current project","path":"ActionManager"},{"hit":"Shared Indexes","path":"ActionManager"},{"hit":"Show Attached Shared Indexes","path":"ActionManager"}]}
+{"id":"shared-indexes","name":"Shared Indexes","entries":[{"hit":"Shared Indexes"}]}

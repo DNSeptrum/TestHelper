@@ -1,0 +1,26 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="septr" />
+      </component>
+      <component name="PropertiesComponent"><![CDATA[{}]]></component>
+      <component name="SvnConfiguration">
+        <configuration />
+      </component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1731765775166</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1731765775166</updated>
+        </task>
+        <servers />
+      </component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+    </defaultProject>
+  </component>
+</application>

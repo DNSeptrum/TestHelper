@@ -1,0 +1,7 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="testowy3" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
